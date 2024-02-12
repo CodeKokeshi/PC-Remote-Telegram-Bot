@@ -3,3 +3,6 @@
 
 # We'll start by importing these stuff.
 **import asyncio**
+**import pyautogui**
+**import telebot**
+**import subprocess**
